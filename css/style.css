@@ -151,6 +151,7 @@ section {
 	flex-wrap: wrap;
 	gap: 0.8rem;
 	align-items: center;
+	width: 100%;
 }
 
 .cta-form input {
@@ -398,6 +399,7 @@ footer {
 
 	.early-access-btn,
 	.early-access-input {
+		width: 100%;
 		min-width: 300px;
 	}
 
