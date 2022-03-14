@@ -175,7 +175,7 @@ section {
 }
 
 .curve {
-	background-image: url(images/bg-curve-desktop.svg);
+	background-image: url(../images/bg-curve-desktop.svg);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: contain;
